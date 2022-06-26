@@ -1,6 +1,6 @@
 # JSONWebToken NodeJs, MongoDB and Async Await 
 <h1 align="center"> <br> <a href="https://jwt.io/">
-<img src="https://drive.google.com/file/d/1oZWWymBki4p0bWQuCktfl-sEv8zhWkIq/view?usp=sharing" alt="JWT" width="200">
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="JWT" width="200">
 </a> <br> JWT <br> </h1> 
 <p align="center"> 
     <a href="#how-to-use">How To Use</a> • 
