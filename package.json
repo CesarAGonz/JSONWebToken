@@ -1,0 +1,27 @@
+{
+  "name": "JSONWebToken-",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\"> <br> <a href=\"https://jwt.io/\">\r <img src=\"https://cdn-icons-png.flaticon.com/512/25/25231.png\" alt=\"JWT\" width=\"200\">\r </a> <br> JWT <br> </h1> \r <p align=\"center\"> \r     <a href=\"#how-to-use\">How To Use</a> • \r     <a href=\"#credits\">Credits</a> • \r     <a href=\"#related\">Related</a> • \r </p>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CesarAGonz/JSONWebToken-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CesarAGonz/JSONWebToken-/issues"
+  },
+  "homepage": "https://github.com/CesarAGonz/JSONWebToken-#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.4.0",
+    "nodemon": "^2.0.18"
+  }
+}
