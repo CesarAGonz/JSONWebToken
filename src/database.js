@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect("mongodb://localhost:27017/basicToken", { 
+mongoose.connect("mongodb://localhost:27017/basicjwt", { 
     useNewUrlParser: true,
     useunifiedTopology: true
 })
